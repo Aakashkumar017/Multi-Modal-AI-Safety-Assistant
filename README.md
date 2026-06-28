@@ -1,4 +1,4 @@
-# ⚠️ Multi-Modal AI Safety Assistant
+#  Multi-Modal AI Safety Assistant
 
 A Streamlit app that detects hazards in images using **BLIP** (image captioning) + **Llama 3.3** via Groq (safety analysis).
 
